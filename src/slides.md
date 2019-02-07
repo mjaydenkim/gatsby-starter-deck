@@ -1,4 +1,6 @@
-# A thing
+# Osmium
+
+![Osmium Picture](//https://upload.wikimedia.org/wikipedia/commons/0/0c/Osmium_crystals.jpg)
 
 This is a thing about Osmium.
 
