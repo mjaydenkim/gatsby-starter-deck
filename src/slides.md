@@ -1,6 +1,6 @@
-# Osmium
-
 <img src="https://www.thoughtco.com/thmb/nv6FJQ7UNx5HJsRETybP2vKgt1s=/653x600/filters:fill(auto,1)/osmium-crystals-56a12a6f3df78cf7726806a0.jpg" alt="Osmium" width="200"/>
+
+# Osmium
 
 This is a thing about Osmium.
 
